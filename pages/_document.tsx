@@ -15,7 +15,7 @@ class MyDocument extends Document {
             property="og:description"
             content="Generate your next Twitter bio in seconds."
           />
-          <meta property="og:title" content="Twitter Bio Generator" />
+          <meta property="og:title" content="Twitter Bio Generator DT" />
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:title" content="Twitter Bio Generator" />
           <meta
